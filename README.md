@@ -36,7 +36,7 @@ Cada nueva cohorte se agrega como una carpeta nueva. Las anteriores no se modifi
 
 Antes de reutilizar cualquier material, revise la licencia de la carpeta correspondiente.
 
-## Adicón de nuevos proyectos
+## Adición de nuevos proyectos
 
 Los proyectos los sube el docente del módulo al finalizar cada cohorte, con previa autorización de su autor o autora. Para que un proyecto entre al repositorio debe tener:
 
